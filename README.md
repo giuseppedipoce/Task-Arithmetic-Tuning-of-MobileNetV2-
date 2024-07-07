@@ -6,4 +6,5 @@
 ![image](https://github.com/giuseppedipoce/Task-Arithmetic-Tuning-of-MobileNetV2-/assets/114066138/67556b9a-adb2-4fcb-a1b0-60203dde808e)
 ![image](https://github.com/giuseppedipoce/Task-Arithmetic-Tuning-of-MobileNetV2-/assets/114066138/d442242c-9783-4a6a-b047-ad2251209bf8)
 ![image](https://github.com/giuseppedipoce/Task-Arithmetic-Tuning-of-MobileNetV2-/assets/114066138/134e05b6-74d8-4194-8a6a-966f8b837f6b)
-![Uploading image.png…]()
+![image](https://github.com/giuseppedipoce/Task-Arithmetic-Tuning-of-MobileNetV2-/assets/114066138/a2451244-c7af-414d-aa44-d30d1fb1bd8a)
+
