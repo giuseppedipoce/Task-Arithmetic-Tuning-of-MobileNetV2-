@@ -8,3 +8,4 @@
 ![image](https://github.com/giuseppedipoce/Task-Arithmetic-Tuning-of-MobileNetV2-/assets/114066138/134e05b6-74d8-4194-8a6a-966f8b837f6b)
 ![image](https://github.com/giuseppedipoce/Task-Arithmetic-Tuning-of-MobileNetV2-/assets/114066138/a2451244-c7af-414d-aa44-d30d1fb1bd8a)
 
+- Giuseppe Di Poce ([Linkedin](https://www.linkedin.com/in/giuseppe-di-poce-82a4ba14a/) - [Github](https://github.com/))
